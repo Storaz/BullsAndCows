@@ -1,0 +1,10 @@
+cheval
+poney
+rat
+chien
+chat
+licorne
+lion
+vache
+inculte
+poule
